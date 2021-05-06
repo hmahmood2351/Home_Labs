@@ -4,4 +4,6 @@ A collection of all homelab related projects to come. Current labs, documentatio
 
 The following represents a list of ideas that I have an interest in and hope to tick off one by one:
 
+Home AD labs
+
 Website link
