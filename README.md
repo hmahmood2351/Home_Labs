@@ -6,6 +6,8 @@ The following represents a list of ideas that I have an interest in and hope to 
 
 CCNA skill lab
 
+Hybrid cloud network scenario
+
 Home AD labs
 
 Website link
