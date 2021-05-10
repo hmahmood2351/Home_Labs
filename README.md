@@ -10,4 +10,6 @@ Hybrid cloud network scenario
 
 Home AD labs
 
+A glance at Service Provider architecture 
+
 Website link
