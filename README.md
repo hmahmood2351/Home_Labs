@@ -4,7 +4,7 @@ A collection of all homelab related projects to come. Current labs, documentatio
 
 The following represents a list of ideas that I have an interest in and hope to tick off one by one (diagrams made using Microsoft Visio):
 
-CCNA skill lab
+CCNA skill lab (done in PT)
 
 Hybrid cloud network scenario
 
