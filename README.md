@@ -6,7 +6,7 @@ The following represents a list of ideas that I have an interest in and hope to 
 
 CCNA skill lab (done in PT)
 
-Hybrid cloud network scenario
+Hybrid cloud network scenario - Azure based
 
 Home AD labs
 
