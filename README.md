@@ -1,7 +1,13 @@
 # Home_Labs
 A collection of all homelab related projects to come. Current labs, documentation and any necessary files are included in their own folders in this repository. 
 
-### Contents at a glance
+
+### Contents at a glance:
+
+
+
+
+
 
 
 
