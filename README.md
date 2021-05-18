@@ -4,17 +4,25 @@ A collection of all homelab related projects to come. Current labs, documentatio
 
 The following represents a list of ideas that I have an interest in and hope to tick off one by one (diagrams made using Microsoft Visio):
 
-CCNA skill lab (done in PT)
-
 CCNA skills mindmap
 
-
-Hybrid cloud network scenario - Azure based
+CCNA skill lab (done in PT)
 
 Home AD labs
 
+Hybrid cloud network scenario - Azure based
+
+
+
+
+
+
 A glance at Service Provider architecture 
 
+
+
 Python Scripts (solving problems I come up with)
+
+
 
 Website link
