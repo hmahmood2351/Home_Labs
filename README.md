@@ -5,10 +5,12 @@ The following represents a list of ideas that I have an interest in and hope to 
 
 ### Contents at a glance:
 
-## Cisco (Everything Cisco related)
+## Networking (Cisco related, and more)
 CCNA skills mindmap (in HTML and PNG format)
 
 CCNA skill lab (done in PT)
+
+Cisco Meraki - architecture, operations, notes.
 
 
 
