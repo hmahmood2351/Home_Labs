@@ -5,7 +5,7 @@ The following represents a list of ideas that I have an interest in and hope to 
 
 ### Contents at a glance:
 
-## Networking (Cisco related, and more)
+## Networking (Cisco related, in general, and more)
 CCNA skills mindmap (in HTML and PNG format)
 
 CCNA skill lab (done in PT)
@@ -13,17 +13,16 @@ CCNA skill lab (done in PT)
 Cisco Meraki - architecture, operations, notes.
 
 
+A glance at Service Provider architecture 
 
-## Microsoft:
 
-Home AD labs
+## Cloud:
+
+Azure AD labs
 
 Hybrid cloud network scenario - Azure based
 
 
-
-## Networking (in general):
-A glance at Service Provider architecture 
 
 
 ## Automation:
