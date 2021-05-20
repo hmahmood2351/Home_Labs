@@ -10,7 +10,7 @@ CCNA skills mindmap (in HTML and PNG format)
 
 CCNA skill lab (done in PT)
 
-Cisco Meraki - architecture, operations, notes.
+Cisco Meraki - architecture, operations, notes (excuse the poor handwriting!).
 
 
 A glance at Service Provider architecture 
