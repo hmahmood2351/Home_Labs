@@ -9,7 +9,7 @@ A Haiku I came up with, that's the best summary I could come up with of what's g
 
 
 
-*Fundamentals are key*
+*Key fundamentals*
 
 
 *The business need always in mind*
