@@ -5,6 +5,23 @@ The following represents a list of ideas that I have an interest in and hope to 
 
 ### Contents at a glance:
 
+A Haiku I came up with, that's the best summary I could come up with of what's going on here:
+
+
+
+*Fundamentals are key*
+
+
+*The business need always in mind*
+
+
+*A tireless firehose*
+
+
+
+I think that's how it works... right?
+
+
 ## Networking (Cisco related, in general, and more)
 CCNA skills mindmap (in HTML and PNG format)
 
