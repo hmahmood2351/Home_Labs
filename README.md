@@ -15,7 +15,7 @@ A Haiku I came up with, that's the best summary I could come up with of what's g
 *The business need always in mind*
 
 
-*A tireless firehose*
+*A tireless fire-hose*
 
 
 
