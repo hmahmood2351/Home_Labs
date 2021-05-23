@@ -23,11 +23,12 @@ I think that's how it works... right?
 
 
 ## Networking (Cisco related, in general, and more)
+
 CCNA skills mindmap (in HTML and PNG format)
 
 CCNA skill lab (done in PT)
 
-Cisco Meraki - architecture, operations, notes (excuse the poor handwriting!).
+Cisco Meraki Architecture & Operations overview
 
 
 A glance at Service Provider architecture 
@@ -35,7 +36,11 @@ A glance at Service Provider architecture
 
 ## Cloud:
 
-Azure AD labs
+Cloud (Azure) Fundamentals Mind-map
+
+Cloud (Azure) Topologies - Networking 
+
+Cloud (Azure) AD labs
 
 Hybrid cloud network scenario - Azure based
 
