@@ -6,6 +6,34 @@ Cloud_Azure Fundamentals - A mindmap I made for the AZ-900, and to a larger exte
 
 
 
+#### Infrastructure architectures:
+
+Diagrams (plus any additional configuration) of architecture related to infrastructure (includes networking)
+
+- On-premises to Azure cloud
+
+
+
+
+
+#### Identity Architectures:
+
+Diagrams (plus any additional configuration) of architecture related to identity (includes AD)
+
+
+
+#### Administration Architectures: 
+
+Diagrams (plus any additional configuration) of architecture related to administration
+
+
+
+#### Security Architectures:
+
+Diagrams (plus any additional configuration) of architecture related to infrastructure
+
+
+
 
 
 

@@ -38,11 +38,13 @@ A glance at Service Provider architecture
 
 Cloud (Azure) Fundamentals Mind-map
 
-Cloud (Azure) Topologies - Networking 
+Cloud (Azure) Architecture - Infrastructure
 
-Cloud (Azure) AD labs
+Cloud (Azure) Architecture - Identity 
 
-Hybrid cloud network scenario - Azure based
+Cloud (Azure) Architecture - Administration
+
+Cloud (Azure) Architecture - Security 
 
 
 
