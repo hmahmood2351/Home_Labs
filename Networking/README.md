@@ -13,4 +13,8 @@ CCNA PT Lab - a PT lab that's based on many of the concepts covered within the C
 
 Meraki Exhibit1-6/Rough1 - a series of (poorly drawn? I used a stylus to draw the diagrams - hence the general hacky nature of them) slides that I created as an overview of the Meraki Cloud architecture and some basic operations. To be used as an overview. Also, see documentation.meraki.com for more information.
 
+### CCNP
 
+CCNP ENCOR 350-401.drawio - a collection of diagrams related to studying for the CCNP ENCOR 350-401. Updated as it is finished.
+
+CCNP ENCOR.xmind - an XMind documenting serving as a summary of the content inside the CCNP. Updated as it is finished.
