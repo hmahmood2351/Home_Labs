@@ -12,7 +12,7 @@ CCNA PT Lab - a PT lab that's based on many of the concepts covered within the C
 
 CCNP ENCOR 350-401.drawio - a collection of diagrams related to studying for the CCNP ENCOR 350-401. Updated as it is finished.
 
-CCNP ENCOR.xmind - an XMind documenting serving as a summary of the content inside the CCNP. Updated as it is finished.
+CCNP ENCOR.xmind - an XMind document serving as a summary of the content inside the CCNP. Updated as it is finished.
 
 ### Meraki
 
