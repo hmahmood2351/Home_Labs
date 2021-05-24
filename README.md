@@ -28,6 +28,10 @@ CCNA skills mindmap (in HTML and PNG format)
 
 CCNA skill lab (done in PT)
 
+CCNP ENCOR 350-401 mind-map
+
+CCNP ENCOR 350-401 diagrams
+
 Cisco Meraki Architecture & Operations overview
 
 
