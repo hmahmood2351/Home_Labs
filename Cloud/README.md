@@ -30,7 +30,7 @@ Diagrams (plus any additional configuration) of architecture related to administ
 
 #### Security Architectures:
 
-Diagrams (plus any additional configuration) of architecture related to infrastructure
+Diagrams (plus any additional configuration) of architecture related to security
 
 
 
