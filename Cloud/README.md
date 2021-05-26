@@ -11,7 +11,7 @@ Cloud_Azure Fundamentals - A mindmap I made for the AZ-900, and to a larger exte
 Diagrams (plus any additional configuration) of architecture related to infrastructure (includes networking)
 
 - On-premises to Azure cloud
-
+- Hub-Spoke in Azure
 
 
 
