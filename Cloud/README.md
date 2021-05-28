@@ -12,6 +12,7 @@ Diagrams (plus any additional configuration) of architecture related to infrastr
 
 - On-premises to Azure cloud
 - Hub-Spoke in Azure
+- Hub-Spoke with Azure Virtual WAN
 
 
 
