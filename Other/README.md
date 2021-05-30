@@ -13,6 +13,10 @@ Other related stuff.
 That sounds oddly like a technology we have today...
 
 
+#### Internet 
+
+##### Images
+
 **Arpanet_map_1973** - a logical topology of the ARPANET network as it was in 1973. Interesting to see the development from an originally four-node network to the Internet today.
 
 
