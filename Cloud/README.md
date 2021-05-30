@@ -14,7 +14,7 @@ Diagrams (plus any additional configuration) of architecture related to infrastr
 - Hub-Spoke in Azure
 - Hub-Spoke with Azure Virtual WAN
 - Virtual Networks in Azure
-
+- Azure Firewall
 
 
 #### Identity Architectures:
