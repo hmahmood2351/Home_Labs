@@ -16,7 +16,7 @@ Diagrams (plus any additional configuration) of architecture related to infrastr
 - Virtual Networks in Azure
 - Azure Firewall
 - Azure Load Balancer
-
+- Azure Network Security Groups
 
 #### Identity Architectures:
 
