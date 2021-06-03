@@ -17,6 +17,7 @@ Diagrams (plus any additional configuration) of architecture related to infrastr
 - Azure Firewall
 - Azure Load Balancer
 - Azure Network Security Groups
+- Azure Bastion
 
 #### Identity Architectures:
 
