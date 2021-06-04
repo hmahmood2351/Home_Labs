@@ -18,6 +18,7 @@ Diagrams (plus any additional configuration) of architecture related to infrastr
 - Azure Load Balancer
 - Azure Network Security Groups
 - Azure Bastion
+- Azure VPN Gateway
 
 #### Identity Architectures:
 
