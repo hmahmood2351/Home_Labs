@@ -10,7 +10,7 @@ Cloud_Azure Fundamentals - A mindmap I made for the AZ-900, and to a larger exte
 
 Diagrams (plus any additional configuration) of architecture related to infrastructure (includes networking)
 
-- On-premises to Azure cloud
+- On-premises to Azure Cloud
 - Hub-Spoke in Azure
 - Hub-Spoke with Azure Virtual WAN
 - Virtual Networks in Azure
@@ -19,6 +19,7 @@ Diagrams (plus any additional configuration) of architecture related to infrastr
 - Azure Network Security Groups
 - Azure Bastion
 - Azure VPN Gateway
+- On-premises to Azure Cloud 2
 
 #### Identity Architectures:
 
