@@ -38,6 +38,8 @@ Diagrams (plus any additional configuration) of architecture related to administ
 Diagrams (plus any additional configuration) of architecture related to security
 
 - Azure Security Benchmark
+- Network Security 
+- Identity Management
 
 
 
