@@ -41,6 +41,7 @@ Diagrams (plus any additional configuration) of architecture related to security
 - Network Security 
 - Identity Management
 - Privileged Access 
+- Data Protection
 
 
 
