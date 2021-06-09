@@ -32,5 +32,5 @@ An interesting quote:
 That sounds oddly like a technology we have today... I wonder why.
 
 
-
+**ARPANET and other networks related images** - all related to the post 'The Internet' on the blog.
 
