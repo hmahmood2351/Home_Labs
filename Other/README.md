@@ -12,6 +12,9 @@ Other related stuff.
 
 That sounds oddly like a technology we have today...
 
+### Assorted Exhibits
+
+Various images and information relating to labs that I've done.
 
 ### Internet 
 
