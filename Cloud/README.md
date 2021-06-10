@@ -42,6 +42,7 @@ Diagrams (plus any additional configuration) of architecture related to security
 - Identity Management
 - Privileged Access 
 - Data Protection
+- Asset Management
 
 
 
