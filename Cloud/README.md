@@ -43,7 +43,6 @@ Diagrams (plus any additional configuration) of architecture related to security
 - Privileged Access 
 - Data Protection
 - Asset Management
-- Logging and Threat Detection
 
 
 
