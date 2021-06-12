@@ -44,6 +44,7 @@ Diagrams (plus any additional configuration) of architecture related to security
 - Data Protection
 - Asset Management
 - Logging and Threat Detection
+- Incident Response
 
 
 
