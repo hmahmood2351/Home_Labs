@@ -4,7 +4,7 @@
 
 Cloud_Azure Fundamentals - A mindmap I made for the AZ-900, and to a larger extent, the fundamentals of Cloud. Has my own thoughts written on it. Made using draw.io, however I'll probably make the next one using Xmind, for easier use. Draw.io would be reserved for diagrams.
 
-
+Cloud_Azure Administration - notes relating to various Azure administrative duties (AZ-104).
 
 #### Infrastructure architectures:
 
@@ -29,7 +29,7 @@ Diagrams (plus any additional configuration) of architecture related to identity
 
 #### Administration Architectures: 
 
-Diagrams (plus any additional configuration) of architecture related to administration
+Diagrams (plus any additional configuration) of architecture related to general administration
 
 
 
@@ -45,6 +45,11 @@ Diagrams (plus any additional configuration) of architecture related to security
 - Asset Management
 - Logging and Threat Detection
 - Incident Response
+- Posture and Vulnerability Management
+- Endpoint Security 
+- Backup and Recovery 
+- Governance and Strategy
+- Azure Security Benchmark Conclusion
 
 
 

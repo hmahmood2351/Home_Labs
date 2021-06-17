@@ -42,6 +42,8 @@ A glance at Service Provider architecture
 
 Cloud (Azure) Fundamentals Mind-map
 
+Cloud (Azure) Administration 
+
 Cloud (Azure) Architecture - Infrastructure
 
 Cloud (Azure) Architecture - Identity 
