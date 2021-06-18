@@ -50,6 +50,7 @@ Diagrams (plus any additional configuration) of architecture related to security
 - Backup and Recovery 
 - Governance and Strategy
 - Azure Security Benchmark Conclusion
+- Zero Trust in Microsoft
 
 
 
